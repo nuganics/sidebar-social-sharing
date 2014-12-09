@@ -173,7 +173,7 @@
                 "description": "Please provide your email.",
                 "id": "email",
                 "domain_request": true
-            },
+            }
 
         ]
     }
