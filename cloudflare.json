@@ -2,7 +2,7 @@
     "main":"public/javascripts/sidebar-social-sharing.js",
     "name":"Sidebar Social Sharing",
     "description": "Sidebar Social Sharing allow you to add various social buttons to your site",
-    "version": "1.0",
+    "version": "0.1",
     "category": "webmaster",
     "account": {
         "callback_url": "http://54.174.35.18/cf_app/login_callback.php"
