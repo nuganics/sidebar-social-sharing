@@ -1,7 +1,7 @@
 {
     "main":"public/javascripts/sidebar-social-sharing.js",
     "name":"Sidebar Social Sharing",
-    "description": "Sidebar Social Sharing allow you to add various social buttons to your site",
+    "description": "Sidebar Social Buttons allow you to add various social buttons to your site",
     "version": "1.0.2",
     "category": "webmaster",
     "account": {
