@@ -1,11 +1,11 @@
 {
     "main":"public/javascripts/sidebar-social-sharing.js",
-    "name":"Sidebar Social Sharing",
+    "name":"Sidebar Social Buttons",
     "description": "Sidebar Social Buttons allow you to add various social buttons to your site",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "category": "webmaster",
     "account": {
-        "callback_url": "http://54.174.35.18/cf_app/login_callback.php"
+        "callback_url": "http://www.corkerapps.com/cloudflare/cf_callback.php"
     },
 
     "config":{
@@ -164,14 +164,6 @@
 				"./public/images/icons/youtube-light.png",
 				"./public/images/icons/youtube.png"
             ]
-        },
-        "interface": [
-            {
-                "type": "string",
-                "name": "E-mail",
-                "description": "Please provide your email.",
-                "id": "email"
-            }
-        ]
+        }
     }
 }
